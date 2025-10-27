@@ -1,0 +1,2 @@
+@password123454321aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+-> given the class could be any password starting with @ and containing password and the number and then random characters to fill it up till 50
