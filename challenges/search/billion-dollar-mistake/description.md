@@ -17,3 +17,4 @@ Fortunately, newer programming languages provide better support, making the issu
 ## Question
 
 Who invented the null reference and considers it his billion dollar mistake?
+ 

@@ -1,0 +1,25 @@
+Reflectie bij video https://www.youtube.com/watch?v=iwUR0kOVNs8
+
+1.Het meest voorname punt: test all the fucking time. Hij gaat hier tijdens de hele video eigenlijk niet verder op in, maar de achterliggende boodschap is duidelijk: zonder testen geen kwaliteit.
+
+2. Hij haalt ook het belang van conventies en testorganisatie aan om verwarring te vermijden. 
+
+3.TDD: Test-Driven Development. Hij benadrukt tijdens de video dat testen schrijven de eerste stap moet zijn. We moeten testen schrijven op basis van verwacht gedrag, niet op basis van geschreven code. De tests drijven de code en niet andersom.
+
+4.BDD: Describe what the code should do, rather than what it does. Persoonlijk ligt dit voor mij zeer dicht bij TDD (TDD legt misschien wat meer de focus op de developer).
+
+5.Dit allemaal doen lijkt in het begin moeilijk en ongemakkelijk, maar het is de moeite om door te zetten.
+
+6.Er worden ook nog een aantal testing frameworks aangehaald, waaronder RSpec. Ik ken ze eigenlijk niet. Aangezien de video van 2008 is weet ik niet meteen hoe relevant ze nog zijn?
+
+Persoonlijke reflectie
+
+Ik heb deze video gekozen omdat in de laatste twee projecten waar ik aan heb gewerkt, testen steeds de crux was. Eigenlijk gaat het over meer dan alleen testen: tijdens workshops duiken alle stakeholders meteen, zonder voorspel, in de details van de oplossing. Dit leidt tot een gebrek aan context, een gebrek aan betrokkenheid en uiteindelijk tot slechte software.
+
+TDD (of BDD) zorgt ervoor dat we vertrekken vanuit verwacht gedrag. Een bijkomend – en volgens de spreker eerder toevallig – positief neveneffect is dat we alle tests hebben, en wanneer die groen lopen, we met vertrouwen kunnen releasen.
+
+Als we écht agile software willen ontwikkelen, is een goede teststrategie onmisbaar: enerzijds zodat we code schrijven die ertoe doet, en anderzijds zodat we in korte iteraties met vertrouwen kunnen releasen, zonder telkens stil te vallen voor een veel te uitgebreide testperiode. Het helpt om de gatekeepers van het releasen van waarde weg te nemen, en definieert bovendien duidelijk – nog voor er één lijn code is geschreven – welke waarde we willen creëren.
+
+Conclusie
+
+Testen vormt de kern van kwaliteitsvolle softwareontwikkeling. Door consistent te testen, gedrag centraal te stellen en conventies te volgen, creëren we duidelijke, betrouwbare code en bouwen we met vertrouwen aan waardevolle software.
