@@ -1,11 +1,7 @@
 {
-    "python.testing.unittestArgs": [
-        "-v",
-        "-s",
-        "./challenges",
-        "-p",
-        "*test.py"
+    "python.testing.pytestArgs": [
+        "challenges"
     ],
-    "python.testing.pytestEnabled": false,
-    "python.testing.unittestEnabled": true
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true
 }
